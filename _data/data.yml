@@ -12,20 +12,20 @@ contact:
   twitter: 
 
 languages:
-  - idiom: Portuguese (native)
-  - idiom: English (fluent)
-  - idiom: French (intermediate)
-  - idiom: Spanish (intermediate)
+  - idiom: Portuguese
+  - idiom: English
+  - idiom: French
+  - idiom: Spanish
 
 
 education:
   - degree: MBA
     time: 2004-2005
-    university: (ESPM)[http://www.espm.br]
+    university: ESPM
 
 - degree: BS in Computer Science
     time: 1996-2001
-    university: (PUCRS)[http://www.pucrs.br]
+    university: PUCRS
 
 skills:
   - category: Backend
