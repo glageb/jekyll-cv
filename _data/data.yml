@@ -1,20 +1,21 @@
-name: John Doe
+name: Guilherme Lage Bertschinger
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: gageb@tutanota.com
+  github: glageb
+  linkedin: guilherme-lage-bertschinger
   phone: 
   gitlab: 
   twitter: 
 
 languages:
+  - idiom: Portuguese
   - idiom: English
-  - idiom: Russian
   - idiom: French
+  - idiom: Spanish
 
 education:
   - degree: MSc in Informatics
