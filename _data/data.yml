@@ -1,31 +1,29 @@
-name: Guilherme Lage Bertschinger
+name: John Doe
 support_dark_mode: true
-fork: false
+fork: true
 
 # Sidebar
 contact:
-  email: glageb@tutanota.com
-  github: glageb
-  linkedin: guilherme-lage-bertschinger
+  email: info@johndoe.com
+  github: johndoe
+  linkedin: johndoe
   phone: 
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: Portuguese
   - idiom: English
+  - idiom: Russian
   - idiom: French
-  - idiom: Spanish
-
 
 education:
-  - degree: MBA
-    time: 2004-2005
-    university: ESPM
+  - degree: MSc in Informatics
+    time: 2014-2016
+    university: Ionian University
 
-- degree: BS in Computer Science
-    time: 1996-2001
-    university: PUCRS
+  - degree: BSc in Computer Science
+    time: 2010-2014
+    university: Ionian University
 
 skills:
   - category: Backend
