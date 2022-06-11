@@ -18,13 +18,13 @@ languages:
   - idiom: Spanish
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: BS Computer Science
+    time: 1997-2001
+    university: PUCRS (Brazil)
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: MBA Leadership
+    time: 2004-2005
+    university: ESPM (Brazil)
 
 skills:
   - category: Backend
