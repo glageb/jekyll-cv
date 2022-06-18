@@ -1,6 +1,6 @@
 name: Guilherme Lage Bertschinger
 support_dark_mode: true
-fork: true
+fork: false
 
 # Sidebar
 contact:
@@ -29,16 +29,15 @@ education:
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
+      - C/C++
+      - Java
+      - ABAP
+      - Python
+  - category: Leadership
     skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
+      - Developing People
+      - Hiring and Grooming
+      - Autonomy Foster
 
 # Profile
 profile: |
@@ -51,16 +50,13 @@ profile: |
 # Experience
 experience:
   - role: Software Engineer
-    time: 2020-Present
-    company: Google
+    time: 2022-Present
+    company: SAP Canada
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Go, Angular, Typescript, C++
+      1
+      2
+      3
+      4
   
   - role: Researcher
     time: 2016-2020
