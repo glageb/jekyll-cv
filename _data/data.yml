@@ -20,11 +20,11 @@ languages:
 education:
   - degree: BS Computer Science
     time: 1997-2001
-    university: [PUCRS](http://www.pucrs.br) (Brazil)
+    university: PUCRS, Brazil
 
   - degree: MBA Leadership
     time: 2004-2005
-    university: ESPM (Brazil)
+    university: ESPM, Brazil
 
 skills:
   - category: Backend
